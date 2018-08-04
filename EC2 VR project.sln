@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EC2 VR project", "EC2 VR project.csproj", "{A093A195-F574-5F35-30D5-D56E00A05AFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EC2 VR project.Editor", "EC2 VR project.Editor.csproj", "{BFB23276-909E-2A6B-DC2D-7057D05DD8F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A093A195-F574-5F35-30D5-D56E00A05AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A093A195-F574-5F35-30D5-D56E00A05AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A093A195-F574-5F35-30D5-D56E00A05AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A093A195-F574-5F35-30D5-D56E00A05AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB23276-909E-2A6B-DC2D-7057D05DD8F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB23276-909E-2A6B-DC2D-7057D05DD8F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB23276-909E-2A6B-DC2D-7057D05DD8F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB23276-909E-2A6B-DC2D-7057D05DD8F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
