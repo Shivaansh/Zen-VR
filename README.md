@@ -10,6 +10,4 @@ Jennifer Bujko
 John Shafe
 Shivaansh Prasann
 
-
-Visit: 
-for all files and executables.
+At Trent University
